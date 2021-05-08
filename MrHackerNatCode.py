@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/python3
+# Created By : Mr.Hacker
 from os import system, name
 from time import sleep
 def clear():
@@ -38,3 +39,4 @@ try :
         system("exit")
 except ValueError :
     print(Fore.RED + "\n[+] " + Fore.BLUE + "OK, Have A Nice Life :) ")
+# Created By : Mr.Hacker
